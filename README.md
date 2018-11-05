@@ -9,11 +9,11 @@ You can use this file in nasqar/GeneCountMerger (nasqar.abudhabi.nyu.edu/GeneCou
 
 Make sure to change the file paths in the script.
 
-`# input gtf file path
-gtfFilePath = "Drosophila_melanogaster.BDGP6.81.gtf"`
+`# input gtf file path`
+`gtfFilePath = "Drosophila_melanogaster.BDGP6.81.gtf"`
 
-`# output .csv file path. This file can be used with nasqar/GeneCountMerger to rename genes in counts file
-csvOutputFilePath = "drosoph.csv"`
+`# output .csv file path. This file can be used with nasqar/GeneCountMerger to rename genes in counts file`
+`csvOutputFilePath = "drosoph.csv"`
 
 run as follows from the directory of the script:
 
